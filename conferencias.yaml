@@ -123,3 +123,9 @@
   end: 2018-09-30
   location: Brasília, DF
   url: http://2018.pythoncerrado.org/
+
+- name: PyData Porto Alegre
+  start: 2018-08-23
+  end: 2018-08-23
+  location: Porto Alegre, RS
+  url: https://www.meetup.com/pt-BR/PyData-Porto-Alegre/events/253308707/
